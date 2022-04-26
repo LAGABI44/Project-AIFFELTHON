@@ -4,12 +4,14 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 ## 💡프로젝트 소개
+```
+1️⃣ 주제 : 신체 검사 결과로 영양 상태 분석 후 영양 성분 추천
+2️⃣ 데이터셋 : 건강보험공단 - 건강검진결과 데이터
+3️⃣ 전처리 : 미정임
+4️⃣ 모델 : 미정임
+5️⃣ 간단 설명 : 귀찮으니 나중에 쓰겠음
+```
 
-1️⃣ 주제 : 신체 검사 결과로 영양 상태 분석 후 영양 성분 추천   
-2️⃣ 데이터셋 : 건강보험공단 - 건강검진결과 데이터   
-3️⃣ 전처리 : 미정임   
-4️⃣ 모델 : 미정임   
-5️⃣ 간단 설명 : 귀찮으니 나중에 쓰겠음   
 
 ---
 ## 🤸‍♂️ 팀 소개
