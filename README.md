@@ -1,4 +1,4 @@
-# 💪슬기로운 건강생활💪
+# Project AIFFELTHON
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -13,16 +13,19 @@
 
 ---
 ## 🤸‍♂️ 팀 소개
-@
-|이봄 @ |이슬기|이호빈|홍연수|
+
+### 💪슬기로운 건강생활💪
+
+|이봄|이슬기|이호빈|홍연수|
 |---|---|---|---|
 |![image](https://user-images.githubusercontent.com/96757866/165124108-28d954c8-d0f7-4a46-8592-c45c21dd28b9.png)|![image](https://user-images.githubusercontent.com/96757866/165124108-28d954c8-d0f7-4a46-8592-c45c21dd28b9.png)|![image](https://user-images.githubusercontent.com/96757866/165124137-0b19a2f3-deeb-4649-b51e-a521ea5bced8.png)|![image](https://user-images.githubusercontent.com/96757866/165124155-d84ac60e-3b65-4a0a-aa33-6a16970211d5.png)|
-|- 문서 관리 </br>- 데이터 전처리, 모델링|- 슬기로운 건강생활의 슬기로운 팀장|- 데이터 수집 </br> - 데이터 분석|- 모델 선정 및 구축, 모델링|
+|- 문서 관리 </br>- 데이터 가공 </br>-UI디자인|- 총괄 </br>-모델링|- 데이터셋 탐색 </br> - 데이터 EDA|- 논문 자료 수집 및 정리 </br>- 모델링|
+|앞만 보고 가겠습니다..!|일을 저질렀으니 수습해야 인간이죠ㅎ|후퇴는 없다..|한번 해 보겠습니다|
 
 ---
 ## 🏅 프로젝트 목표
-#### 1. 추천 시스템 완벽 구현
-#### 2. ㅇ
+#### 1. 추천 시스템 구현
+#### 2. 사용자 화면으로 알고리즘 실행
 #### 3. ㅇ
 
 ---
@@ -31,12 +34,15 @@
 
 |내용|M1|M2|H1|H2|H3|H4|H5|H6|
 |---|---|---|---|---|---|---|---|---|
-|데이터 수집|🟡|🟡|||||||
-|데이터 전처리||🟡|🟡||||||
-|EDA||||🟡|||||
-|시각화||||🟡|||||
-|모델 선정 및 구축|||||🟡|🟡|🟡||
-|결과 분석||||||||🟡|
+|데이터셋 탐색|🟡||||||||
+|데이터 분석||🟡|||||||
+|데이터 EDA||🟡|||||||
+|프로세스 이해||🟡|||||||
+|모델 선정|||🟡||||||
+|모델 구축||||🟡|🟡|🟡|||
+|결과 분석|||||||🟡||
+|UI 디자인||||||||🟡|
+|앱서버 연결||||||||🟡|
 
 ---
 ## 🤖 모델 사용
