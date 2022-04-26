@@ -1,5 +1,8 @@
 # 💪슬기로운 건강생활💪
 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
 ## 💡프로젝트 소개
 
 1️⃣ 주제 : 신체 검사 결과로 영양 상태 분석 후 영양 성분 추천   
@@ -10,8 +13,8 @@
 
 ---
 ## 🤸‍♂️ 팀 소개
-
-|이봄|이슬기|이호빈|홍연수|
+@
+|이봄 @ |이슬기|이호빈|홍연수|
 |---|---|---|---|
 |![image](https://user-images.githubusercontent.com/96757866/165124108-28d954c8-d0f7-4a46-8592-c45c21dd28b9.png)|![image](https://user-images.githubusercontent.com/96757866/165124108-28d954c8-d0f7-4a46-8592-c45c21dd28b9.png)|![image](https://user-images.githubusercontent.com/96757866/165124137-0b19a2f3-deeb-4649-b51e-a521ea5bced8.png)|![image](https://user-images.githubusercontent.com/96757866/165124155-d84ac60e-3b65-4a0a-aa33-6a16970211d5.png)|
 |- 문서 관리 </br>- 데이터 전처리, 모델링|- 슬기로운 건강생활의 슬기로운 팀장|- 데이터 수집 </br> - 데이터 분석|- 모델 선정 및 구축, 모델링|
