@@ -1,3 +1,4 @@
+
 # Project AIFFELTHON
 
 
@@ -54,9 +55,10 @@
 ### 👉 [추천시스템 베이스 코드 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/Base%20code/Recommender_system)
 ---
 ## 🦄 프로젝트를 위한 자료
-#### [1. 논문 자료 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/%EB%85%BC%EB%AC%B8%20%EC%9E%90%EB%A3%8C)
-#### 2. 의료데이터 전처리
-#### 3. 의료데이터 모델링
+#### [1. 데이터셋(국민건강보험공단)](https://www.data.go.kr/data/15007122/fileData.do)
+#### [2. 논문 자료 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/%EB%85%BC%EB%AC%B8%20%EC%9E%90%EB%A3%8C)
+#### 3. 의료데이터 전처리
+#### 4. 의료데이터 모델링
 
 ---
 ## 🏆 결과
