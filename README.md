@@ -50,8 +50,8 @@
 ## 🤖 모델 사용
 ### 선정 모델 : SVM, 추천시스템
 ### 선정 이유 : 
-### 👉 [SVM 베이스 코드 바로가기]()
-### 👉 [추천시스템 베이스 코드 바로가기]()
+### 👉 [SVM 베이스 코드 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/Base%20code/SVM)
+### 👉 [추천시스템 베이스 코드 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/Base%20code/Recommender_system)
 ---
 ## 🦄 프로젝트를 위한 자료
 #### [1. 논문 자료 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/%EB%85%BC%EB%AC%B8%20%EC%9E%90%EB%A3%8C)
