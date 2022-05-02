@@ -51,6 +51,11 @@
 ## 🤖 모델 사용
 ### 선정 모델 : SVM, 추천시스템
 ### 선정 이유 : 
+1. 기본적으로 SVM같은 경우에는 광범위하게 사용되는 지도학습의 일종으로 패턴을 인지하고 분류 문제에 있어서 강력한 툴이다. 
+
+2. BMI지수나 간수치, 혈색소 수치등 건강 수치는 기준점은 있지만, 단편 일률적인 판별을 하기에는 다차원적으로 분류를 하는 것이 필요하다. (병을 판단하기 위해서 묶여 있는 지표들이 많고 다차원적으로 여러 지표를 보고 건강유무를 판단한다.) 
+
+3. 건강 지표로 환자로 의심되는 군과 정상인으로 판별되는 군을 나누어 거기에 맞는 건기식 추천을 해야하는 시스템으로  어떤 사람이 한 영화를 좋아했다면, 비슷한 콘텐츠의 아이템을 추천하는 방식인 Content based filtering 보다는  잠재요인 기법을 활용하는 Collaborative filtering가 적절하다고 판단하였고, baseline code로는 Collaborative filtering의 하위 범주인 user-based filtering의 베이스라인 코드를 선정하였다. 
 ### 👉 [SVM 베이스 코드 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/Base%20code/SVM)
 ### 👉 [추천시스템 베이스 코드 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/Base%20code/Recommender_system)
 ---
