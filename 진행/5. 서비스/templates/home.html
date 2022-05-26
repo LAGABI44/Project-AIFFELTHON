@@ -1,0 +1,39 @@
+<!DOCTYPEhtml>
+<html>
+<head>
+    <title>Home</title>
+    <!--<link rel="stylesheet"type="text/css"href="../static/css/styles.css">-->
+    <link rel="stylesheet"type="text/css"href="{{url_for('static',filename='css/styles.css') }}">
+
+</head>
+<body>
+
+    <header>
+        <div class="container">
+        <div id="brandname">
+            슬기로운 건강생활 project
+        </div>
+        <h2>나의 당뇨, 고혈압 여부 알아보기</h2>
+
+    </div>
+    </header>
+
+    <div class="ml-container">
+
+        <form action="{{url_for('predict')}}"method="POST">
+        <P>당신의 설병, 나이, 공복혈당, 이완기 혈압, 수축기 혈압, BMI 수치를 순서대로 입력해주시오.</P>
+        <!--<input type="text"name="comment/">-->
+        <textarea name="message" rows="4" cols="50"></textarea>
+        <br/>
+
+        <input type="submit"class="btn-info"value="결과보기">
+
+    </form>
+
+    </div>
+
+
+
+
+</body>
+</html>
