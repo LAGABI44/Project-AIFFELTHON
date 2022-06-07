@@ -13,6 +13,7 @@
 |05|22.05.08|이슬기|7가지 모델 f1-score 비교|
 
 
+---
 #### 분류 모델 : SVM, SGDclassifier, Logistic Regression, Xgboost, LightGBM
 ---
 ## 진행상황
