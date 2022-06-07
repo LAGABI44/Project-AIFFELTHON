@@ -45,11 +45,12 @@
 |24|22.06.02|홍연수|LightGBM 진행 (LightGBM, Xgboost)|
 
 Reference)
+
 https://github.com/lsjsj92/machine_learning_basic,
 
 핸즈온 머신러닝 2판,
 
-파이썬 머신러닝 완벽 가이드,
+파이썬 머신러닝 완벽 가이드 2판 ,
 
 혼자 공부하는 머신러닝 딥러닝
 
