@@ -13,13 +13,13 @@
 |05|22.05.08|이슬기|7가지 모델 f1-score 비교|
 
 
-#### 분류 모델 : 
+#### 분류 모델 : SVM, SGDclassifier, Logistic Regression, Xgboost, LightGBM
 ---
 ## 진행상황
 
 |No|날짜|이름|내용|
 |---|---|---|-------|
-|01|---|홍연수|추천시스템|
+|01|---|홍연수|추천시스템 시도 및 이진분류 모델링|
 |02|22.04.20|홍연수|모델링 부분 담당 확정|
 |03|22.04.25|홍연수|추천시스템 (knowledge-based system) 공부|
 |04|22.04.26|홍연수|분류 모델링|
@@ -41,9 +41,14 @@
 |20|22.05.23|홍연수|부스팅 계열 모델로 넘어감 (LightGBM, Xgboost)|
 |21|22.05.24|홍연수|Confusion matrix, data_iteration check(LightGBM, Xgboost)|
 |22|22.05.26|홍연수|Xgboost 진행, SVM 시도 모델 자체가 무거워서 힘듦(LightGBM, Xgboost)|
-|23|22.05.30|홍연수|모델 총정리|
+|23|22.05.30|홍연수|모델 총정리 및 stacking 시도|
 |24|22.06.02|홍연수|LightGBM 진행 (LightGBM, Xgboost)|
 
+Reference)
+https://github.com/lsjsj92/machine_learning_basic,
+핸즈온 머신러닝 2판,
+파이썬 머신러닝 완벽 가이드,
+혼자 공부하는 머신러닝 딥러닝
 
 
 
