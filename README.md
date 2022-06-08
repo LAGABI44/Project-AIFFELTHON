@@ -66,4 +66,5 @@
 
 ---
 ## 🏆 프로젝트 결과(영상) 
-![result](https://user-images.githubusercontent.com/96757866/172508654-841acd97-3f88-4233-a2cc-a5a8cd5828c0.gif)
+✅ [전체코드 보러가기](https://github.com/LAGABI44/Project-AIFFELTHON/blob/main/final/0.%20%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4_%EA%B1%B4%EA%B0%95%EC%83%9D%ED%99%9C_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb)
+![result](https://user-images.githubusercontent.com/96757866/172508654-841acd97-3f88-4233-a2cc-a5a8cd5828c0.gif)   
