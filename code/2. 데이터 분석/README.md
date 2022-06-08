@@ -24,7 +24,5 @@
 |03|22.05.02~22.05.06|이호빈|1. 데이터에 적합한 그래프 조사 </br> 2. 데이터 시각화|
 |04|22.05.09~22.05.13|이호빈|1. 데이터 시각화 </br> 2. 데이터 feature 상관관계 확인 </br> 3. 상관관계 시각화|
 |05|22.05.16~22.05.20|이호빈|1. Clustering 학습  </br> 2. KMeans k값 선정 </br> 3. KMenas 진행 |
-|06|22.05.23~22.05.27|이호빈|1. StandardScaler 진행 후 KMeans 진행 </br> 2. Scaler 된 데이터 PCA 진행 후 KMenas </br>3. KMeans 시각화
-|07|22.05.30~22.06.03|이호빈|1. MinMaxScaler 진행 후 KMeans 진행 </br>2. Scaler 된 데이터 PCA 진행 후 KMenas </br> 3. KMeans 시각화 </br> 4. DBScan 
-
-
+|06|22.05.23~22.05.27|이호빈|1. StandardScaler 진행 후 KMeans 진행 </br> 2. MinMaxScaler 진행 후 KMeans 진행  </br>3. KMeans 시각화
+|07|22.05.30~22.06.03|이호빈|1. Standard,MinMaxScaler 된 데이터 PCA 진행 후 KMenas </br> 2. KMeans 시각화 </br> 3. DBScan 학습 
