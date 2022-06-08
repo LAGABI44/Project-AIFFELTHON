@@ -1,10 +1,10 @@
 # 모델링(1)분류
 
 #### 📑데이터셋 : [국민건강보험공단_혈압ㆍ혈당 데이터](https://www.data.go.kr/data/15095105/fileData.do)
-
+---
 
 #### 분류 모델 : SVM, Randomforest
----
+
 
 
 ## 진행상황
