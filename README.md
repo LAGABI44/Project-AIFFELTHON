@@ -2,7 +2,7 @@
 # Project AIFFELTHON
 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
 ## 💡프로젝트 소개
 ```
@@ -32,7 +32,7 @@
 #### 3. 사용자 화면으로 알고리즘 실행
 
 ---
-## 🗓️ 프로젝트 일정
+## 🗓️ 프로젝트 진행 일정
 - 해당 일정은 프로젝트 진행에 따라 수정된다.
 
 |내용|M1|M2|H1|H2|H3|H4|H5|H6|
@@ -48,16 +48,16 @@
 |앱서버 연결||||||||🟡|
 
 ---
-## 🤖 모델 사용
-### 선정 모델 : SVM, 추천시스템
-### 선정 이유 : 
-1. 기본적으로 SVM같은 경우에는 광범위하게 사용되는 지도학습의 일종으로 패턴을 인지하고 분류 문제에 있어서 강력한 툴이다. 
+## 📑 프로젝트 진행 과정
+|No|내용|깃허브|관리대표|
+|---|---|---|---|
+|01|데이터 재가공|[📂](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/code/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9E%AC%EA%B0%80%EA%B3%B5)|이봄|
+|02|데이터 분석|[📂](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/code/2.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)|이호빈|
+|03|모델링(1) 이진분류|[📂](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/code/3.%20%EB%AA%A8%EB%8D%B8%EB%A7%81(1)%20%EC%9D%B4%EC%A7%84%EB%B6%84%EB%A5%98)|홍연수|
+|04|모델링(2) 다중분류|[📂](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/code/4.%20%EB%AA%A8%EB%8D%B8%EB%A7%81(2)%20%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98)|이슬기|
+|05|서비스(웹)|[📂](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/code/5.%20%EC%84%9C%EB%B9%84%EC%8A%A4(%EC%9B%B9))|이봄, 이슬기|
 
-2. BMI지수나 간수치, 혈색소 수치등 건강 수치는 기준점은 있지만, 단편 일률적인 판별을 하기에는 다차원적으로 분류를 하는 것이 필요하다. (병을 판단하기 위해서 묶여 있는 지표들이 많고 다차원적으로 여러 지표를 보고 건강유무를 판단한다.) 
 
-3. 건강 지표로 환자로 의심되는 군과 정상인으로 판별되는 군을 나누어 거기에 맞는 건기식 추천을 해야하는 시스템으로  어떤 사람이 한 영화를 좋아했다면, 비슷한 콘텐츠의 아이템을 추천하는 방식인 Content based filtering 보다는  잠재요인 기법을 활용하는 Collaborative filtering가 적절하다고 판단하였고, baseline code로는 Collaborative filtering의 하위 범주인 user-based filtering의 베이스라인 코드를 선정하였다. 
-### 👉 [SVM 베이스 코드 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/Base%20code/SVM)
-### 👉 [추천시스템 베이스 코드 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/Base%20code/Recommender_system)
 ---
 ## 🦄 프로젝트를 위한 자료
 #### [1. 데이터셋(국민건강보험공단)](https://www.data.go.kr/data/15007122/fileData.do)
