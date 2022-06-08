@@ -23,10 +23,16 @@
 
 ## 진행상황
 
+#### 분류 모델 : Logistic Regression
+
+
 |No|날짜|이름|내용|
 |---|---|---|---|
 |08, 09|22.05.19~22.05.30|이봄|LogisticRegression|
 ---
+
+#### 분류 모델 : SVM, SGDclassifier, Logistic Regression, Xgboost, LightGBM
+
 ## 진행상황
 
 
