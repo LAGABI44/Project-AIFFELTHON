@@ -47,6 +47,13 @@
 |앱서버 연결||||||||🟡|
 
 ---
+## 🦄 프로젝트를 위한 자료
+#### [1. 데이터셋(국민건강보험공단)](https://nhiss.nhis.or.kr/bd/ab/bdabf003cv.do)
+#### [2. 논문 자료 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/%EB%85%BC%EB%AC%B8%20%EC%9E%90%EB%A3%8C)
+#### 3. 의료데이터 전처리
+#### 4. 의료데이터 모델링
+
+---
 ## 📑 프로젝트 진행 과정
 |No|내용|깃허브|관리대표|
 |---|---|---|---|
@@ -56,13 +63,6 @@
 |04|모델링(2) 다중분류|[📂](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/code/4.%20%EB%AA%A8%EB%8D%B8%EB%A7%81(2)%20%EB%8B%A4%EC%A4%91%EB%B6%84%EB%A5%98)|이슬기|
 |05|서비스(웹)|[📂](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/code/5.%20%EC%84%9C%EB%B9%84%EC%8A%A4(%EC%9B%B9))|이봄, 이슬기|
 
-
----
-## 🦄 프로젝트를 위한 자료
-#### [1. 데이터셋(국민건강보험공단)](https://nhiss.nhis.or.kr/bd/ab/bdabf003cv.do)
-#### [2. 논문 자료 바로가기](https://github.com/LAGABI44/Project-AIFFELTHON/tree/main/%EB%85%BC%EB%AC%B8%20%EC%9E%90%EB%A3%8C)
-#### 3. 의료데이터 전처리
-#### 4. 의료데이터 모델링
 
 ---
 ## 🏆 프로젝트 결과(영상) 
