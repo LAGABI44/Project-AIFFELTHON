@@ -19,7 +19,6 @@
 
 
 ---
-#### 분류 모델 : SVM, SGDclassifier, Logistic Regression, Xgboost, LightGBM
 
 ## 진행상황
 
