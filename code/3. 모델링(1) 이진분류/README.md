@@ -19,10 +19,10 @@
 
 
 ---
+#### 분류 모델 : Logistic Regression
 
 ## 진행상황
 
-#### 분류 모델 : Logistic Regression
 
 
 |No|날짜|이름|내용|
