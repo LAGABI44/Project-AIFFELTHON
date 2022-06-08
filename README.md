@@ -67,4 +67,5 @@
 
 ---
 ## 🏆 결과
-
+👉 아래 영상 자동재생됩니다.   
+![result](https://user-images.githubusercontent.com/96757866/172508654-841acd97-3f88-4233-a2cc-a5a8cd5828c0.gif)
